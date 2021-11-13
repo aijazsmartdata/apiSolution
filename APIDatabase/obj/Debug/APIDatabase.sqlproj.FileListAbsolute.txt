@@ -1,0 +1,5 @@
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\APIDatabase\bin\Debug\APIDatabase.dacpac
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\APIDatabase\bin\Debug\APIDatabase.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\APIDatabase\bin\Debug\APIDatabase.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\APIDatabase\obj\Debug\APIDatabase.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\APIDatabase\obj\Debug\APIDatabase.pdb

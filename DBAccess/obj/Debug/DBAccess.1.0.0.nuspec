@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DBAccess</id>
+    <version>1.0.0</version>
+    <authors>DBAccess</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.dll" target="lib\netcoreapp3.1\DBAccess.dll" />
+  </files>
+</package>

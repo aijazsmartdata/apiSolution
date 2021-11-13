@@ -1,0 +1,15 @@
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\bin\Debug\net5.0\Repositry.deps.json
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\bin\Debug\net5.0\Repositry.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\bin\Debug\net5.0\ref\Repositry.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\bin\Debug\net5.0\Repositry.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\bin\Debug\net5.0\DomainService.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\bin\Debug\net5.0\DomainService.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.csprojAssemblyReference.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.AssemblyInfoInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.AssemblyInfo.cs
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.csproj.CoreCompileInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.csproj.CopyComplete
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\ref\Repositry.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\Repositry\obj\Debug\net5.0\Repositry.pdb

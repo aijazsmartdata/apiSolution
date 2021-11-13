@@ -1,0 +1,12 @@
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\bin\Debug\net5.0\DomainService.deps.json
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\bin\Debug\net5.0\DomainService.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\bin\Debug\net5.0\ref\DomainService.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\bin\Debug\net5.0\DomainService.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.csprojAssemblyReference.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.AssemblyInfoInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.AssemblyInfo.cs
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.csproj.CoreCompileInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\ref\DomainService.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DomainService\obj\Debug\net5.0\DomainService.pdb

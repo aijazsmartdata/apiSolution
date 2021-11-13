@@ -1,0 +1,17 @@
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\DBAccess.deps.json
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\DBAccess.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\ref\DBAccess.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\DBAccess.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\DomainService.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\Repositry.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\Repositry.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\net5.0\DomainService.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.csprojAssemblyReference.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.AssemblyInfoInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.AssemblyInfo.cs
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.csproj.CopyComplete
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\ref\DBAccess.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\net5.0\DBAccess.pdb

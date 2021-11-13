@@ -1,0 +1,8 @@
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.deps.json
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\bin\Debug\netcoreapp3.1\DBAccess.pdb
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.AssemblyInfoInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.AssemblyInfo.cs
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.dll
+C:\Users\AIJAZ AHMAD\source\repos\APISolution\DBAccess\obj\Debug\netcoreapp3.1\DBAccess.pdb
