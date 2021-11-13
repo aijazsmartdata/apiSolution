@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\CoreService\\CoreService.csproj",
+      "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\CoreService\\CoreService.csproj",
       "projectName": "CoreService",
-      "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\CoreService\\CoreService.csproj",
+      "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\CoreService\\CoreService.csproj",
       "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\CoreService\\obj\\",
+      "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\CoreService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

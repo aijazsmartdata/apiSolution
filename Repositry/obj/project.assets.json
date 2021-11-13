@@ -549,11 +549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj",
+      "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj",
       "projectName": "Repositry",
-      "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj",
+      "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj",
       "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\obj\\",
+      "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -573,8 +573,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj": {
-              "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj"
+            "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj": {
+              "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj"
             }
           }
         }

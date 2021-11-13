@@ -6220,11 +6220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\APIProject\\APIProject.csproj",
+      "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\APIProject\\APIProject.csproj",
       "projectName": "APIProject",
-      "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\APIProject\\APIProject.csproj",
+      "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\APIProject\\APIProject.csproj",
       "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\APIProject\\obj\\",
+      "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\APIProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6244,11 +6244,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\BusinessService\\BusinessService.csproj": {
-              "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\BusinessService\\BusinessService.csproj"
+            "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\BusinessService\\BusinessService.csproj": {
+              "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\BusinessService\\BusinessService.csproj"
             },
-            "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj": {
-              "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj"
+            "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj": {
+              "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj"
             }
           }
         }

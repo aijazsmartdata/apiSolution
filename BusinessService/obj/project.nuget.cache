@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbMbnnRhoVtoxaDDSCmSbC9zPl3zuj5/g6ABCNL2HYmzWXmeW2Mmgp1rI/bu/GgXuQKuzA9CiVjjRdVV9kexWg==",
+  "dgSpecHash": "kZQtJhGXlzRr8VLYGlg23WKeWe9DmoKe5mNDCfWg9ZC7tcDioqaignoDMocpJGUm/Kwd0YGJU5hUlTqFGEZmfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\BusinessService\\BusinessService.csproj",
+  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\BusinessService\\BusinessService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

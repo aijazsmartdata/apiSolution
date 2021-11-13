@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8L6Eh1JxA7xI/FL4R23IwO1YgybQLfWcLJ2pW/YUTyba2vZ2wz70PFUmqH7WslfC4IT1+DslR5Ql6cn4sOIDg==",
+  "dgSpecHash": "XHsfnZ03FlLiX52Wh9hix1vHLoOhohNL9bUimb0x0m1DfAeSQyyXFpwvkklxkPBTEQlgm32U3uerXT5J61DtHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj",
+  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",

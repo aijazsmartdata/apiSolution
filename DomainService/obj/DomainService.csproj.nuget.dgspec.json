@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj": {}
+    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj": {
+    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj",
+        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj",
         "projectName": "DomainService",
-        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj",
+        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj",
         "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\obj\\",
+        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

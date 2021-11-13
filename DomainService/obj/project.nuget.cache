@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zVAuCr7M52KV4gbvd0dl/dPiM2rxEZ87RL68LuxlqjKD5VLmdQXeQETnCzcw2sigqTbKk3lS4TekOj7FLKYNew==",
+  "dgSpecHash": "GnZloL9BCV+i1x71RQ2YQTg3yC+PrANxgQ+4HzsPU0soDwNRtvDC63doBb0V7lWYZ5aTbtuj8eTQoGJhdrcLuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj",
+  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

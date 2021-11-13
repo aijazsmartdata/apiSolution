@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6iCMQ3M4Fddf8gpWer4VdbrkKjIelnOpMOreh3qLHN3bwBb536AHLfnKJzAQZrl+5p1ihs3sXR7nEtZ9Tk2uqQ==",
+  "dgSpecHash": "FgPM3qWZgOaL/2svuUfMNuClHNaHMMYAxGmoAYHkYKqA/89Lo3vBlwxGywFX+5f7+tDAB3jwlL0Qlvc5Msca+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\CoreService\\CoreService.csproj",
+  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\CoreService\\CoreService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

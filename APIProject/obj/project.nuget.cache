@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqfM4fHBuGHZniOdcVez37eof+RqRK6s+T5jsiZjrTVXxOBvQcYTxIKynjryLYAMljXqzcIyuEvGqBsfiFVxTQ==",
+  "dgSpecHash": "YsxouS8XiuGd/JBDt0dz1851hXxx/h39YUeOFEUor1Lw/xxceP+qV9qu9yuvTEpwBZ1VohRSM+HhoF+6epvGcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\APIProject\\APIProject.csproj",
+  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\APIProject\\APIProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

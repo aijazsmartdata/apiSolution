@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DBAccess\\DBAccess.csproj": {}
+    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DBAccess\\DBAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DBAccess\\DBAccess.csproj": {
+    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DBAccess\\DBAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DBAccess\\DBAccess.csproj",
+        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DBAccess\\DBAccess.csproj",
         "projectName": "DBAccess",
-        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DBAccess\\DBAccess.csproj",
+        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DBAccess\\DBAccess.csproj",
         "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DBAccess\\obj\\",
+        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DBAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj": {
-                "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj"
+              "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj": {
+                "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj": {
+    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj",
+        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj",
         "projectName": "DomainService",
-        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj",
+        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj",
         "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\obj\\",
+        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj": {
+    "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj",
+        "projectUniqueName": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj",
         "projectName": "Repositry",
-        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\Repositry.csproj",
+        "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\Repositry.csproj",
         "packagesPath": "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\Repositry\\obj\\",
+        "outputPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\Repositry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -159,8 +159,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj": {
-                "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DomainService\\DomainService.csproj"
+              "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj": {
+                "projectPath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DomainService\\DomainService.csproj"
               }
             }
           }

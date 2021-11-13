@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lo/jBSCoShMkH2+HZdOsa6bmYMUf1spPujACRDXGZ4SMTVsps1kuti7zxXMphFsP0Pa/hzSgGDgwISSNCIw3fg==",
+  "dgSpecHash": "LOg7WCOZTL52dYY3scbf+EV9EK3IL9VkdEFqkTRjnmosW9Fq12bHSjLshX6hrGY6tKndcq6HYuXJ8VBq6HR1Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\APISolution\\DBAccess\\DBAccess.csproj",
+  "projectFilePath": "C:\\Users\\AIJAZ AHMAD\\source\\repos\\apiIssue\\APISolution\\DBAccess\\DBAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\AIJAZ AHMAD\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
