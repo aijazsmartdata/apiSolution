@@ -9,6 +9,7 @@ namespace BusinessService.Abstract
 {
     public interface IAccountService
     {
+        //Test Demo Code
         Task<UserDto> CreateAccountAsync(UserDto user);
         Task<List<UserDto>> GetAllAccountAsync();
         Task<UserDto> GetUserAsync(int Id);
